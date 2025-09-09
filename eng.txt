@@ -1,0 +1,2 @@
+Hello world. This is a tokenizer test.WordPiece splits words into subwords.
+ontent: Wikipedia, the free encyclopedia Jump to content Main menu Main menu move to sidebar hide Navigation Main page Contents Current events Random article About Wikipedia Contact us Donate Contribute Help Learn to edit Community portal Recent

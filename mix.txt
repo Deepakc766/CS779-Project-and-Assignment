@@ -1,0 +1,2 @@
+I love भारत and 中国 together.
+Tokenizer works across languages.

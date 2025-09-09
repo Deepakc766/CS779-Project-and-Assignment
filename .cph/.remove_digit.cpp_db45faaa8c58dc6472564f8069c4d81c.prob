@@ -1,0 +1,1 @@
+{"name":"Local: remove_digit","url":"/Users/deepakchaurasia/Assignment 2/remove_digit.cpp","tests":[{"id":1757154430196,"input":"27","output":"5"},{"id":1757154442613,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/deepakchaurasia/Assignment 2/remove_digit.cpp","group":"local","local":true}
