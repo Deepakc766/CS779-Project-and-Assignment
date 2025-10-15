@@ -1,0 +1,36 @@
+Accuracy: 0.643500
+
+Class-wise Metrics:
+
+Class                  Precision      Recall    F1-score
+--------------------------------------------------------
+food                    0.691781    0.505000    0.583815
+sports                  0.775148    0.655000    0.710027
+education               0.535088    0.610000    0.570093
+animal                  0.763975    0.615000    0.681440
+science                 0.587065    0.590000    0.588529
+art                     0.735632    0.640000    0.684492
+entertainment           0.629213    0.840000    0.719486
+finance                 0.706468    0.710000    0.708229
+health                  0.613953    0.660000    0.636145
+history                 0.512605    0.610000    0.557078
+
+Confusion Components:
+
+Class                     TP      FP      FN
+--------------------------------------------
+food                     101      45      99
+sports                   131      38      69
+education                122     106      78
+animal                   123      38      77
+science                  118      83      82
+art                      128      46      72
+entertainment            168      99      32
+finance                  142      59      58
+health                   132      83      68
+history                  122     116      78
+
+Macro Averages:
+Precision (macro): 0.655093
+Recall    (macro): 0.643500
+F1        (macro): 0.643933
